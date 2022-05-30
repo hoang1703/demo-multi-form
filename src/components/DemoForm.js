@@ -61,11 +61,11 @@ const DemoForm = () => {
         valuesForm5,
       })
     } else {
-      handleSubmitForm1()();
-      handleSubmitForm2()();
-      handleSubmitForm3()();
-      handleSubmitForm4()();
       handleSubmitForm5()();
+      handleSubmitForm4()();
+      handleSubmitForm3()();
+      handleSubmitForm2()();
+      handleSubmitForm1()();
     }
   };
 
